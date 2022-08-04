@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc_text">Type anything</string>
+    <string name="n_t_p_d_v">No se pase de verga</string>
+</resources>
